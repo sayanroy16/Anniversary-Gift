@@ -10,3 +10,16 @@
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
 }
+.bdy{
+    width: 100%;
+}
+.bdi{
+    width: 100%;
+}
+.hdn{
+    color: white;
+    text-align: center;
+    font: italic;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}

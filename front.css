@@ -9,6 +9,17 @@
     color: white;
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
+    border-block-color:white ;
+    border-radius: 10px;
+}
+.lastbtn:hover{
+    height: 50px;
+    width: 100px;
+    background-color:red; 
+    color: white;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+
 }
 .bdy{
     width: 100%;
@@ -23,3 +34,16 @@
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
 }
+h2{
+    text-align: center;
+    font: italic;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+#btnline{
+    color: red;
+}
+
+
+
+
